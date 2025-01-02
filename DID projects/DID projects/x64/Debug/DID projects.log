@@ -1,0 +1,3 @@
+﻿  DCreate.cpp
+D:\DID Project\DID\DID Projects\DID projects\DCreate.cpp(52,31): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  DID projects.vcxproj -> D:\DID Project\DID\DID Projects\x64\Debug\DID projects.exe

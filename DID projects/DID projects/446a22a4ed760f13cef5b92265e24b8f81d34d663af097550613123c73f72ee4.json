@@ -1,0 +1,10 @@
+{
+   "@context" : "https://www.w3.org/ns/did/v1",
+   "id" : "446a22a4ed760f13cef5b92265e24b8f81d34d663af097550613123c73f72ee4",
+   "verificationMethod" : {
+      "controller" : "446a22a4ed760f13cef5b92265e24b8f81d34d663af097550613123c73f72ee4",
+      "id" : "446a22a4ed760f13cef5b92265e24b8f81d34d663af097550613123c73f72ee4#key-0",
+      "publicKeyMultibase" : "MFkwEwYHKoZIzj0CAQYIKoEcz1UBgi0DQgAEMvIuh9TTy3cS3PHxid3APAmLL+2lozTIIdeXMaqu93xLHWxMOgGMxtEySu44ChCMFuk4oTpZm/58EoACPdS+Ew==",
+      "type" : "SM2 Key Pairs"
+   }
+}

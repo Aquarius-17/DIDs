@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DID Project\\DID\\DID projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB6F7292-14BE-4611-B184-5FE83DFCBB16}|DID projects\\DID projects.vcxproj|D:\\DID Project\\DID\\DID Projects\\DID projects\\DCreate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB6F7292-14BE-4611-B184-5FE83DFCBB16}|DID projects\\DID projects.vcxproj|solutionrelative:DID projects\\DCreate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DCreate.cpp",
+              "DocumentMoniker": "D:\\DID Project\\DID\\DID projects\\DID projects\\DCreate.cpp",
+              "RelativeDocumentMoniker": "DID projects\\DCreate.cpp",
+              "ToolTip": "D:\\DID Project\\DID\\DID projects\\DID projects\\DCreate.cpp",
+              "RelativeToolTip": "DID projects\\DCreate.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-02T08:36:59.861Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
