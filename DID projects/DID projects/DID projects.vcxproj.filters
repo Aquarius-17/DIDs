@@ -36,12 +36,18 @@
     <ClCompile Include="..\src\lib_json\json_writer.cpp">
       <Filter>源文件\DID</Filter>
     </ClCompile>
+    <ClCompile Include="VcCreate.cpp">
+      <Filter>源文件\DID</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DCreate.h">
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="DDCreate.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="VcCreate.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

@@ -4,12 +4,12 @@
 #include <iostream>
 #include "DCreate.h"
 #include "DDCreate.h"
-
+#include "VcCreate.h"
 
 int main()
 {
-    std::string did=did_create();
-    
+    //std::string did = did_create();
+    bool result = Vc_Create("a", "b", "c", "d", "e","f","g");
     int i = 0;
     std::cin >> i;
 

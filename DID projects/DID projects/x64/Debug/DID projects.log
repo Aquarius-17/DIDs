@@ -1,3 +1,5 @@
-﻿  DCreate.cpp
-D:\DID Project\DID\DID Projects\DID projects\DCreate.cpp(52,31): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
-  DID projects.vcxproj -> D:\DID Project\DID\DID Projects\x64\Debug\DID projects.exe
+﻿  VcCreate.cpp
+D:\DID Project\DIDs\DID projects\DID projects\VcCreate.cpp(45,28): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\DID Project\DIDs\DID projects\DID projects\VcCreate.cpp(63,55): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\DID Project\DIDs\DID projects\DID projects\VcCreate.cpp(68,49): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  DID projects.vcxproj -> D:\DID Project\DIDs\DID projects\x64\Debug\DID projects.exe

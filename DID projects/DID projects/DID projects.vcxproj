@@ -71,7 +71,7 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <IncludePath>D:\DID Project\DID\DID projects\include\json;D:\OpenSSL\OpenSSL-Win64\include;$(IncludePath)</IncludePath>
+    <IncludePath>D:\DID Project\DIDs\DID projects\DID projects;D:\DID Project\DIDs\DID projects\include;D:\OpenSSL\OpenSSL-Win64\include;$(IncludePath)</IncludePath>
     <LibraryPath>D:\OpenSSL\OpenSSL-Win64\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
@@ -108,7 +108,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>D:\DID Project\DID\DID projects\include;D:\OpenSSL\OpenSSL-Win64\include</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>D:\DID Project\DIDs\DID projects\include\json;D:\DID Project\DIDs\DID projects\DID projects;D:\DID Project\DIDs\DID projects\include;D:\OpenSSL\OpenSSL-Win64\include</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -140,10 +140,12 @@
     <ClCompile Include="DDCreate.cpp" />
     <ClCompile Include="DCreate.cpp" />
     <ClCompile Include="DID_projects.cpp" />
+    <ClCompile Include="VcCreate.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DDCreate.h" />
     <ClInclude Include="DCreate.h" />
+    <ClInclude Include="VcCreate.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

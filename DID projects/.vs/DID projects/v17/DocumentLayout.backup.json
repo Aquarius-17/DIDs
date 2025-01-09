@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\DID Project\\DID\\DID projects\\",
+  "WorkspaceRootPath": "D:\\DID Project\\DIDs\\DID projects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DB6F7292-14BE-4611-B184-5FE83DFCBB16}|DID projects\\DID projects.vcxproj|D:\\DID Project\\DID\\DID Projects\\DID projects\\DCreate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DB6F7292-14BE-4611-B184-5FE83DFCBB16}|DID projects\\DID projects.vcxproj|solutionrelative:DID projects\\DCreate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{DB6F7292-14BE-4611-B184-5FE83DFCBB16}|DID projects\\DID projects.vcxproj|D:\\DID Project\\DIDs\\DID projects\\DID projects\\VcCreate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB6F7292-14BE-4611-B184-5FE83DFCBB16}|DID projects\\DID projects.vcxproj|solutionrelative:DID projects\\VcCreate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB6F7292-14BE-4611-B184-5FE83DFCBB16}|DID projects\\DID projects.vcxproj|D:\\DID Project\\DID\\DID projects\\DID projects\\DDCreate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DB6F7292-14BE-4611-B184-5FE83DFCBB16}|DID projects\\DID projects.vcxproj|solutionrelative:DID projects\\DDCreate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{DB6F7292-14BE-4611-B184-5FE83DFCBB16}|DID projects\\DID projects.vcxproj|D:\\DID Project\\DIDs\\DID projects\\DID projects\\DID_projects.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB6F7292-14BE-4611-B184-5FE83DFCBB16}|DID projects\\DID projects.vcxproj|solutionrelative:DID projects\\DID_projects.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB6F7292-14BE-4611-B184-5FE83DFCBB16}|DID projects\\DID projects.vcxproj|D:\\DID Project\\DID\\DID projects\\DID projects\\DDCreate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DB6F7292-14BE-4611-B184-5FE83DFCBB16}|DID projects\\DID projects.vcxproj|solutionrelative:DID projects\\DDCreate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{DB6F7292-14BE-4611-B184-5FE83DFCBB16}|DID projects\\DID projects.vcxproj|D:\\DID Project\\DIDs\\DID projects\\DID projects\\VcCreate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB6F7292-14BE-4611-B184-5FE83DFCBB16}|DID projects\\DID projects.vcxproj|solutionrelative:DID projects\\VcCreate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DDCreate.h",
-              "DocumentMoniker": "D:\\DID Project\\DID\\DID projects\\DID projects\\DDCreate.h",
-              "RelativeDocumentMoniker": "DID projects\\DDCreate.h",
-              "ToolTip": "D:\\DID Project\\DID\\DID projects\\DID projects\\DDCreate.h",
-              "RelativeToolTip": "DID projects\\DDCreate.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Title": "VcCreate.h",
+              "DocumentMoniker": "D:\\DID Project\\DIDs\\DID projects\\DID projects\\VcCreate.h",
+              "RelativeDocumentMoniker": "DID projects\\VcCreate.h",
+              "ToolTip": "D:\\DID Project\\DIDs\\DID projects\\DID projects\\VcCreate.h",
+              "RelativeToolTip": "DID projects\\VcCreate.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-02T08:44:43.894Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DDCreate.cpp",
-              "DocumentMoniker": "D:\\DID Project\\DID\\DID projects\\DID projects\\DDCreate.cpp",
-              "RelativeDocumentMoniker": "DID projects\\DDCreate.cpp",
-              "ToolTip": "D:\\DID Project\\DID\\DID projects\\DID projects\\DDCreate.cpp",
-              "RelativeToolTip": "DID projects\\DDCreate.cpp",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAHUAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-02T08:40:54.172Z",
+              "WhenOpened": "2025-01-09T06:49:51.096Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DCreate.cpp",
-              "DocumentMoniker": "D:\\DID Project\\DID\\DID projects\\DID projects\\DCreate.cpp",
-              "RelativeDocumentMoniker": "DID projects\\DCreate.cpp",
-              "ToolTip": "D:\\DID Project\\DID\\DID projects\\DID projects\\DCreate.cpp",
-              "RelativeToolTip": "DID projects\\DCreate.cpp",
-              "ViewState": "AgIAAIIAAAAAAAAAAAAAAG8AAAARAAAAAAAAAA==",
+              "Title": "VcCreate.cpp",
+              "DocumentMoniker": "D:\\DID Project\\DIDs\\DID projects\\DID projects\\VcCreate.cpp",
+              "RelativeDocumentMoniker": "DID projects\\VcCreate.cpp",
+              "ToolTip": "D:\\DID Project\\DIDs\\DID projects\\DID projects\\VcCreate.cpp",
+              "RelativeToolTip": "DID projects\\VcCreate.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAJgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-02T08:36:59.861Z",
+              "WhenOpened": "2025-01-09T06:43:46.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DID_projects.cpp",
+              "DocumentMoniker": "D:\\DID Project\\DIDs\\DID projects\\DID projects\\DID_projects.cpp",
+              "RelativeDocumentMoniker": "DID projects\\DID_projects.cpp",
+              "ToolTip": "D:\\DID Project\\DIDs\\DID projects\\DID projects\\DID_projects.cpp",
+              "RelativeToolTip": "DID projects\\DID_projects.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-09T06:33:41.256Z",
               "EditorCaption": ""
             }
           ]
